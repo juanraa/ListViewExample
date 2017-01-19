@@ -1,0 +1,17 @@
+C:\Users\Juanra\Documents\Example Xamarin Forms\ListViewExample\ListViewExample\ListViewExample\bin\Debug\ListViewExample.dll
+C:\Users\Juanra\Documents\Example Xamarin Forms\ListViewExample\ListViewExample\ListViewExample\bin\Debug\ListViewExample.pdb
+C:\Users\Juanra\Documents\Example Xamarin Forms\ListViewExample\ListViewExample\ListViewExample\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Juanra\Documents\Example Xamarin Forms\ListViewExample\ListViewExample\ListViewExample\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Juanra\Documents\Example Xamarin Forms\ListViewExample\ListViewExample\ListViewExample\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Juanra\Documents\Example Xamarin Forms\ListViewExample\ListViewExample\ListViewExample\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Juanra\Documents\Example Xamarin Forms\ListViewExample\ListViewExample\ListViewExample\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Juanra\Documents\Example Xamarin Forms\ListViewExample\ListViewExample\ListViewExample\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Juanra\Documents\Example Xamarin Forms\ListViewExample\ListViewExample\ListViewExample\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Juanra\Documents\Example Xamarin Forms\ListViewExample\ListViewExample\ListViewExample\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Juanra\Documents\Example Xamarin Forms\ListViewExample\ListViewExample\ListViewExample\obj\Debug\ListViewExample.csprojResolveAssemblyReference.cache
+C:\Users\Juanra\Documents\Example Xamarin Forms\ListViewExample\ListViewExample\ListViewExample\obj\Debug\ListViewExample.Views.MainPage.xaml.g.cs
+C:\Users\Juanra\Documents\Example Xamarin Forms\ListViewExample\ListViewExample\ListViewExample\obj\Debug\ListViewExample.App.xaml.g.cs
+C:\Users\Juanra\Documents\Example Xamarin Forms\ListViewExample\ListViewExample\ListViewExample\obj\Debug\ListViewExample.dll
+C:\Users\Juanra\Documents\Example Xamarin Forms\ListViewExample\ListViewExample\ListViewExample\obj\Debug\ListViewExample.pdb
+C:\Users\Juanra\Documents\Example Xamarin Forms\ListViewExample\ListViewExample\ListViewExample\obj\Debug\ListViewExample.dll.mdb
+C:\Users\Juanra\Documents\Example Xamarin Forms\ListViewExample\ListViewExample\ListViewExample\bin\Debug\ListViewExample.dll.mdb
